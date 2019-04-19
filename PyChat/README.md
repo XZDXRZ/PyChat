@@ -1,0 +1,19 @@
+# Pychat
+
+#### by 兄主的仙人掌
+
+![我的海报](https://github.com/XZDXRZ/PyChat/blob/master/PyChat/Posters/Poster.jpg)
+
+![我的Logo](https://github.com/XZDXRZ/PyChat/blob/master/PyChat/Posters/Logo.jpg)
+
+1. 我是开源的！
+
+   我的GitHub地址是[PyChat on Github](https://github.com/XZDXRZ/Pychat)
+
+   点个Star吧兄dei！
+
+2. 我的功能：
+   * 聊天（那必须的）
+   * 抓关键词
+   * 运行程序
+   * 温度转换
