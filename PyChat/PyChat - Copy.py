@@ -50,6 +50,9 @@ while True:
             print((test - 32)/1.8)
         elif mode == '-f':
             print(test*1.8+32)
+        elif mode == '--help':
+            print('-c : 华氏度至摄氏度')
+            print('-f : 摄氏度至华氏度')
         else:
             print('没有找到 '+mode+' 这种模式')
     elif data['info'] == '.pd' or data['info'] == '.pathdir':
